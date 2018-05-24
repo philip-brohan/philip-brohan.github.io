@@ -1,0 +1,24 @@
+Philip Brohan's stuff
+=====================
+
+I am old enough to have a homepage as a central web presence, but there is little here. This page is rarely updated; for real-time action, see my pages at `Twitter <https://twitter.com/PhilipBrohan>`_, `GitHub <https://github.com/philip-brohan>`_, or `Vimeo <https://vimeo.com/philipbrohan>`_.
+
+On-going professional projects
+------------------------------
+
+- `Atmospheric Circulation Reconstructions over the Earth (ACRE) <http://met-acre.net>`_
+- `oldweather.org <http://oldweather.org>`_. See also `the blog <http://blog.oldweather.org>`_
+- `20CR version 3 <https://oldweather.github.io/20CRv3-diagnostics/>`_
+- `Do-it-yourself data assimilation <https://oldweather.github.io/DWR>`_
+
+Possibly re-useable software
+----------------------------
+
+- `Meteorographica: a personal library for weather data <https://philip-brohan.github.io/Meteorographica/>`_
+- `Tools for International Maritime Meteorological Archive records  <https://github.com/oldweather/IMMA>`_
+
+I have given up writing research papers (I make datasets, software, and videos instead), but those I have written are listed by `Google Scholar <https://scholar.google.com/citations?user=dJZ6zekAAAAJ&hl=en>`_
+
+
+
+

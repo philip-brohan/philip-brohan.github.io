@@ -15,7 +15,7 @@ Possibly re-useable software
 ----------------------------
 
 - Tools for weather model and reanalysis data:
-    - `IRData: Accessing synoptic-timescale Reanalyis Data with Iris <http://brohan.org/IRData/>`_
+    - `IRData: Accessing synoptic-timescale Reanalysis Data with Iris <http://brohan.org/IRData/>`_
     - `Meteorographica: python code for plotting weathermaps <https://brohan.org/Meteorographica/>`_
 - `Tools for International Maritime Meteorological Archive records  <https://github.com/oldweather/IMMA>`_
 

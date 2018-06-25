@@ -14,10 +14,12 @@ On-going professional projects
 Possibly re-useable software
 ----------------------------
 
-- `Meteorographica: a personal library for weather data <https://philip-brohan.github.io/Meteorographica/>`_
+- Tools for weather model and reanalysis data:
+    - `IRData: Accessing synoptic-timescale Reanalyis Data with Iris <http://brohan.org/IRData/>`_
+    - `Meteorographica: python code for plotting weathermaps <https://brohan.org/Meteorographica/>`_
 - `Tools for International Maritime Meteorological Archive records  <https://github.com/oldweather/IMMA>`_
 
-I have given up writing research papers (I make datasets, software, and videos instead), but those I have written are listed by `Google Scholar <https://scholar.google.com/citations?user=dJZ6zekAAAAJ&hl=en>`_
+I have given up writing research papers (I make datasets, software, and videos instead), but many of those I have written are listed by `Google Scholar <https://scholar.google.com/citations?user=dJZ6zekAAAAJ&hl=en>`_
 
 
 

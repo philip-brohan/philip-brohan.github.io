@@ -1,23 +1,35 @@
 Philip Brohan's stuff
 =====================
 
-I am old enough to have a homepage as a central web presence, but there is little here. This page is rarely updated; for real-time action, see my pages at `Twitter <https://twitter.com/PhilipBrohan>`_, `GitHub <https://github.com/philip-brohan>`_, or `Vimeo <https://vimeo.com/philipbrohan>`_.
+I am old enough to have a homepage as a central web presence, but this page is rarely updated; for real-time action, see my pages at `Twitter <https://twitter.com/PhilipBrohan>`_, `GitHub <https://github.com/philip-brohan>`_, or `Vimeo <https://vimeo.com/philipbrohan>`_.
 
-On-going professional projects
-------------------------------
-
-- `Atmospheric Circulation Reconstructions over the Earth (ACRE) <http://met-acre.net>`_
-- `oldweather.org <http://oldweather.org>`_. See also `the blog <http://blog.oldweather.org>`_
-- `20CR version 3 <https://oldweather.github.io/20CRv3-diagnostics/>`_
-- `Do-it-yourself data assimilation <https://oldweather.github.io/DWR>`_
-
-Possibly re-useable software
-----------------------------
+Software
+--------
 
 - Tools for weather model and reanalysis data:
     - `IRData: Accessing synoptic-timescale Reanalysis Data with Iris <http://brohan.org/IRData/>`_
     - `Meteorographica: python code for plotting weathermaps <https://brohan.org/Meteorographica/>`_
 - `Tools for International Maritime Meteorological Archive records  <https://github.com/oldweather/IMMA>`_
+
+Datasets
+--------
+
+- `Auto-transcription benchmark <http://brohan.org/OCR-weatherrescue/>`_
+- `Weather observations from marine expeditions <https://github.com/oldweather/Expeditions>`_
+- `ICOADS3+: Bias-adjusted early marine pressures <https://github.com/oldweather/ICOADS3.plus>`_
+
+Collaborations
+--------------
+
+- `Atmospheric Circulation Reconstructions over the Earth (ACRE) <http://met-acre.net>`_
+- `oldweather.org <http://oldweather.org>`_. See also `the blog <http://blog.oldweather.org>`_
+- `International Comprehensive Ocean-Atmosphere DataSet <http://icoads.noaa.gov/>`_
+  
+Under Construction
+------------------
+
+- `20CR version 3 <https://oldweather.github.io/20CRv3-diagnostics/>`_
+- `New Historical UK-region observations <https://oldweather.github.io/DWR>`_
 
 I have given up writing research papers (I make datasets, software, and videos instead), but many of those I have written are listed by `Google Scholar <https://scholar.google.com/citations?user=dJZ6zekAAAAJ&hl=en>`_
 

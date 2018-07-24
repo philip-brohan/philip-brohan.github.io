@@ -15,6 +15,7 @@ Datasets
 --------
 
 - `Auto-transcription benchmark <http://brohan.org/OCR-weatherrescue/>`_
+- `New Historical UK-region observations <https://oldweather.github.io/DWR>`_
 - `Weather observations from marine expeditions <https://github.com/oldweather/Expeditions>`_
 - `ICOADS3+: Bias-adjusted early marine pressures <https://github.com/oldweather/ICOADS3.plus>`_
 
@@ -29,7 +30,6 @@ Under Construction
 ------------------
 
 - `20CR version 3 <https://oldweather.github.io/20CRv3-diagnostics/>`_
-- `New Historical UK-region observations <https://oldweather.github.io/DWR>`_
 
 I have given up writing research papers (I make datasets, software, and videos instead), but many of those I have written are listed by `Google Scholar <https://scholar.google.com/citations?user=dJZ6zekAAAAJ&hl=en>`_
 

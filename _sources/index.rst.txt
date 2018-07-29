@@ -31,6 +31,13 @@ Under Construction
 
 - `20CR version 3 <https://oldweather.github.io/20CRv3-diagnostics/>`_
 
+Oddments
+--------
+
+- `Grandma's Book <http://norah.brohan.org>`_
+
+|
+
 I have given up writing research papers (I make datasets, software, and videos instead), but many of those I have written are listed by `Google Scholar <https://scholar.google.com/citations?user=dJZ6zekAAAAJ&hl=en>`_
 
 

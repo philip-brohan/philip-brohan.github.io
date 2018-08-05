@@ -19,17 +19,17 @@ Datasets
 - `Weather observations from marine expeditions <https://github.com/oldweather/Expeditions>`_
 - `ICOADS3+: Bias-adjusted early marine pressures <https://github.com/oldweather/ICOADS3.plus>`_
 
+Analyses
+--------
+
+- `20CR version 3 <https://oldweather.github.io/20CRv3-diagnostics/>`_
+
 Collaborations
 --------------
 
 - `Atmospheric Circulation Reconstructions over the Earth (ACRE) <http://met-acre.net>`_
 - `oldweather.org <http://oldweather.org>`_. See also `the blog <http://blog.oldweather.org>`_
 - `International Comprehensive Ocean-Atmosphere DataSet <http://icoads.noaa.gov/>`_
-  
-Under Construction
-------------------
-
-- `20CR version 3 <https://oldweather.github.io/20CRv3-diagnostics/>`_
 
 Oddments
 --------

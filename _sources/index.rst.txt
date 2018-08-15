@@ -7,17 +7,18 @@ Software
 --------
 
 - Tools for weather model and reanalysis data:
-    - `IRData: Accessing synoptic-timescale Reanalysis Data with Iris <http://brohan.org/IRData/>`_
+    - `IRData: Accessing synoptic-timescale Reanalysis Data with Iris <https://brohan.org/IRData/>`_
     - `Meteorographica: python code for plotting weathermaps <https://brohan.org/Meteorographica/>`_
 - `Tools for International Maritime Meteorological Archive records  <https://github.com/oldweather/IMMA>`_
 
 Datasets
 --------
 
-- `Auto-transcription benchmark <http://brohan.org/OCR-weatherrescue/>`_
+- `Auto-transcription benchmark <https://brohan.org/OCR-weatherrescue/>`_
 - `New historical UK-region observations <https://oldweather.github.io/DWR>`_
 - `Weather observations from marine expeditions <https://oldweather.github.io/Expeditions>`_
 - `ICOADS3+: Bias-adjusted early marine pressures <https://github.com/oldweather/ICOADS3.plus>`_
+- `Royal Navy observations for the WW2 period <https://github.com/oldweather/RN-WW2>`_
 
 Analyses
 --------
@@ -27,9 +28,9 @@ Analyses
 Collaborations
 --------------
 
-- `Atmospheric Circulation Reconstructions over the Earth (ACRE) <http://met-acre.net>`_
-- `oldweather.org <http://oldweather.org>`_. See also `the blog <http://blog.oldweather.org>`_
-- `International Comprehensive Ocean-Atmosphere DataSet <http://icoads.noaa.gov/>`_
+- `Atmospheric Circulation Reconstructions over the Earth (ACRE) <https://met-acre.net>`_
+- `oldweather.org <http://oldweather.org>`_. See also `the blog <https://blog.oldweather.org>`_
+- `International Comprehensive Ocean-Atmosphere DataSet (ICOADS) <http://icoads.noaa.gov/>`_
 
 Oddments
 --------

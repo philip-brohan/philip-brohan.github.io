@@ -8,8 +8,10 @@ Software
 
 - Tools for weather model and reanalysis data:
     - `IRData: Accessing synoptic-timescale Reanalysis Data with Iris <https://brohan.org/IRData/>`_
-    - `Meteorographica: python code for plotting weathermaps <https://brohan.org/Meteorographica/>`_
-- `Tools for International Maritime Meteorological Archive records  <https://github.com/oldweather/IMMA>`_
+    - `Meteorographica: Python code for plotting weathermaps <https://brohan.org/Meteorographica/>`_
+- Tools for International Maritime Meteorological Archive records:
+   - `Python package for IMMA records <http://brohan.org/pyIMMA/>`_
+   - `Older Perl and Javascript IMMA software <https://github.com/oldweather/IMMA>`_
 
 Datasets
 --------
@@ -23,7 +25,12 @@ Datasets
 Analyses
 --------
 
-- `20CR version 3 <https://oldweather.github.io/20CRv3-diagnostics/>`_
+- `The Twentieth-Century Reanalysis version 3 <https://oldweather.github.io/20CRv3-diagnostics/>`_
+
+Reports
+-------
+
+- `Approaches to transcription of weather observations <http://brohan.org/transcription_methods_review/>`_
 
 Collaborations
 --------------

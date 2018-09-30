@@ -1,5 +1,20 @@
+About Philip
+============
+
+I was born on March 12, 1969 in London, England.
+
+I went to school at `King's, Worcester <https://www.ksw.org.uk/>`_, and to university at `Girton College, Cambridge <https://www.girton.cam.ac.uk/>`_: graduating in 1990 with a degree in Physics and Theoretical Physics.
+
+I stayed in Cambridge to do a PhD in the `Theory of Condensed Matter group <https://www.tcm.phy.cam.ac.uk/>`_, but when I completed that in 1994 I was happy to leave academia and get a real job.
+
+From 1994 to 2002 I worked for `Nuclear Electric <https://en.wikipedia.org/wiki/Nuclear_Electric>`_/ `British Energy <https://en.wikipedia.org/wiki/British_Energy>`_ (now part of `EDF <https://en.wikipedia.org/wiki/%C3%89lectricit%C3%A9_de_France>`_) modelling reactor core and fuel behaviour. In 1999 and 2000 I was seconded to the `OECD Halden Reactor Project <https://www.ife.no/en/ife/halden/hrp/the-halden-reactor-project>`_.
+
+Since 2002 I have worked at the `Met Office <https://www.metoffice.gov.uk/>`_ as a climate scientist. My job is to find out what the weather was like 100 years ago, so we can compare that with our experience today and our projections of the future.
+
+I have been a `data scientist <https://en.wikipedia.org/wiki/Data_science>`_ since before it was fashionable. Now I work mostly with weather data, particularly historical observations. While I enjoy model building, I am strongly of the opinion that quantity of data trumps cleverness in analysing it. So I devote most of my time to digging-out more observations.
+
 Contact Philip
-==============
+--------------
 
 :Email: philip@brohan.org
 :Phone: +44 (0)7973 916639

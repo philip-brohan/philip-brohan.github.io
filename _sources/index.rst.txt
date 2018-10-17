@@ -21,6 +21,7 @@ Datasets
 - `Weather observations from marine expeditions <https://oldweather.github.io/Expeditions>`_
 - `ICOADS3+: Bias-adjusted early marine pressures <https://github.com/oldweather/ICOADS3.plus>`_
 - `Royal Navy observations for the WW2 period <https://github.com/oldweather/RN-WW2>`_
+- `Weather observations from English East India Company ships <https://github.com/oldweather/EEIC>`_
 
 Analyses
 --------

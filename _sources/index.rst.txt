@@ -27,6 +27,7 @@ Analyses
 --------
 
 - `The Twentieth-Century Reanalysis version 3 <https://oldweather.github.io/20CRv3-diagnostics/>`_
+- `Do-it-yourself Data Assimilation <http://brohan.org/offline_assimilation/>`_ (**incomplete**)
 
 Reports
 -------

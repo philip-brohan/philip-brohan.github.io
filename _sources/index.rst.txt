@@ -12,6 +12,8 @@ Software
 - Tools for International Maritime Meteorological Archive records:
    - `Python package for IMMA records <http://brohan.org/pyIMMA/>`_
    - `Older Perl and Javascript IMMA software <https://github.com/oldweather/IMMA>`_
+- Tools for station weather observations:
+   - `File format and Python API for newly-digitised historical weather observations <http://brohan.org/SEF/>`_
 
 Datasets
 --------
@@ -22,6 +24,7 @@ Datasets
 - `ICOADS3+: Bias-adjusted early marine pressures <https://github.com/oldweather/ICOADS3.plus>`_
 - `Royal Navy observations for the WW2 period <https://github.com/oldweather/RN-WW2>`_
 - `Weather observations from English East India Company ships <https://github.com/oldweather/EEIC>`_
+- `Weather observations from station archives <http://brohan.org/station-data/>`_
 
 Analyses
 --------
@@ -40,6 +43,7 @@ Collaborations
 - `Atmospheric Circulation Reconstructions over the Earth (ACRE) <https://met-acre.net>`_
 - `oldweather.org <http://oldweather.org>`_. See also `the blog <https://blog.oldweather.org>`_
 - `International Comprehensive Ocean-Atmosphere DataSet (ICOADS) <http://icoads.noaa.gov/>`_
+- `Southern Weather Discovery <http://southernweatherdiscovery.org>`_
 
 Oddments
 --------

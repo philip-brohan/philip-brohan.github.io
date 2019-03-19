@@ -29,6 +29,7 @@ Datasets
 Analyses
 --------
 
+- `Using Amazon Textract for data rescue <https://brohan.org/AWS-Textract//>`_
 - `The Twentieth-Century Reanalysis version 3 <https://oldweather.github.io/20CRv3-diagnostics/>`_
 - `Do-it-yourself Data Assimilation <http://brohan.org/offline_assimilation/>`_ (**incomplete**)
 

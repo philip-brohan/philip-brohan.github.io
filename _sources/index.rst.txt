@@ -45,6 +45,11 @@ Collaborations
 - `oldweather.org <http://oldweather.org>`_. See also `the blog <https://blog.oldweather.org>`_
 - `International Comprehensive Ocean-Atmosphere DataSet (ICOADS) <http://icoads.noaa.gov/>`_
 - `Southern Weather Discovery <http://southernweatherdiscovery.org>`_
+  
+Talks
+-----
+
+- `New uses for old weather <https://www.youtube.com/watch?v=O98ha2c4vGs&feature=youtu.be>`_. (2019-06-24, at `NCAR <https://ncar.ucar.edu/>`_).
 
 Oddments
 --------

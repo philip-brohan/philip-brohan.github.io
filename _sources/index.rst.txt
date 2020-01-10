@@ -57,7 +57,7 @@ Software
    - `Python package for IMMA records <http://brohan.org/pyIMMA/>`_
    - `Older Perl and Javascript IMMA software <https://github.com/oldweather/IMMA>`_
 - Tools for station weather observations:
-   - `File format and Python API for newly-digitised historical weather observations <http://brohan.org/SEF/>`_
+   - `File format and API for newly-digitised historical weather observations <https://github.com/C3S-Data-Rescue-Lot1-WP3/SEF/wiki>`_
 
 Oddments
 --------

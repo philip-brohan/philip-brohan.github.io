@@ -33,7 +33,8 @@ Datasets
 - `Royal Navy observations for the WW2 period <https://github.com/oldweather/RN-WW2>`_
 - `Weather observations from English East India Company ships <https://github.com/oldweather/EEIC>`_
 - `Weather observations from station archives <http://brohan.org/station-data/>`_
-
+- `Ship logs at NARA <http://brohan.org/Ship_logs_at_NARA/>`_
+  
 Collaborations
 --------------
 

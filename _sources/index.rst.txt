@@ -6,6 +6,7 @@ I am old enough to have a homepage as a central web presence, but this page is r
 Machine Learning
 ----------------
 
+- `Machine Learning for Data Assimilation <http://brohan.org/Proxy_20CR/>`_
 - `Weather Forecasting without the difficult bits <http://brohan.org/ML_GCM/>`_
 - `Weather2weather: Forecast the weather using tensorflow and the pix2pix model <https://github.com/philip-brohan/weather2weather>`_
 - `Experiments in Machine Learning with climate data <http://brohan.org/Machine-Learning/>`_
@@ -17,6 +18,7 @@ Analyses
 
 - `The Twentieth-Century Reanalysis version 3 <https://oldweather.github.io/20CRv3-diagnostics/>`_
 - `Do-it-yourself Data Assimilation <http://brohan.org/offline_assimilation/>`_
+- `Extending the climate stripes <http://brohan.org/Stripes/>`_
 
 Reports
 -------

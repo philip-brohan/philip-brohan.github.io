@@ -13,7 +13,7 @@ From 1994 to 2002 I worked for `Nuclear Electric <https://en.wikipedia.org/wiki/
 
 Since 2002 I have worked at the `Met Office <https://www.metoffice.gov.uk/>`_ as a climate scientist. My job is to find out what the weather was like 100 years ago, so we can compare that with our experience today and our projections of the future.
 
-I have been a `data scientist <https://en.wikipedia.org/wiki/Data_science>`_ since before it was fashionable. Now I work mostly with weather data, particularly historical observations. While I enjoy model building, I am strongly of the opinion that quantity of data trumps cleverness in analysing it. So I devote most of my time to digging-out more observations.
+I have been a `data scientist <https://en.wikipedia.org/wiki/Data_science>`_ since before it was fashionable. Now I work mostly with weather data, particularly historical observations. I've spent a lot of time on basic data - finding and digitising additional historical observations - and working with `reanalyses <https://en.wikipedia.org/wiki/Atmospheric_reanalysis>`_ - combining model and observations to reconstruct past weather. I'm particularly keen on Machine Learning as a technique to `build models for reanalysis <http://brohan.org/Proxy_20CR/>`_.
 
 Contact Philip
 --------------

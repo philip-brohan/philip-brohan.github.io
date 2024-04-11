@@ -51,6 +51,7 @@ Talks
 - `A new look at a 1931 flood <https://player.vimeo.com/video/598378492>`_. (2021-09-07, online).
 - `Data Assimilation with a Deep convolutional Variational AutoEncoder <https://vimeo.com/771235908/0abaeab8a3>`_ (2022-11-15, at `ECMWF <https://events.ecmwf.int/event/304/>`_). Also available as a `Twitter thread <https://twitter.com/PhilipBrohan/status/1592647879499612161>`_.
 - `Machine Learning for Data Assimilation <https://player.vimeo.com/video/697402613>`_. (2022-04-08, online).
+- `Climate modeling and data assimilation with generative machine learning <https://player.vimeo.com/video/933263338>`_. (2024-04-09, online).
 - `New uses for old weather <https://www.youtube.com/watch?v=O98ha2c4vGs&feature=youtu.be>`_. (2019-06-24, at `NCAR <https://ncar.ucar.edu/>`_).
 
 Software

@@ -54,6 +54,14 @@ Talks
 - `Climate modeling and data assimilation with generative machine learning <https://player.vimeo.com/video/933263338>`_. (2024-04-09, online).
 - `New uses for old weather <https://www.youtube.com/watch?v=O98ha2c4vGs&feature=youtu.be>`_. (2019-06-24, at `NCAR <https://ncar.ucar.edu/>`_).
 
+Graphics
+--------
+
+- `A modern Rhinoceros <http://brohan.org/Posters/posters/Rhinoceros/>`_: A tribute to the power of Matplotlib and the genius of Albrect Dürer.
+- `An AI reads history <http://brohan.org/Posters/posters/An_AI_reads_history/>`_: How many overlapping lifetimes does it take to cover recorded history?.
+- `An equirectangular approximation to the Spilhaus projection <http://brohan.org/Posters/posters/Spilhaus/ostia.html>`_: A map of the world arranged to highlight the ocean.
+- `Land use in the UK <http://brohan.org/Posters/posters/UK_land_use>`_: A map of the UK, coloured by land use.
+
 Software
 --------
 

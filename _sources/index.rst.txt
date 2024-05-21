@@ -6,6 +6,7 @@ I am old enough to have a homepage as a central web presence, but this page is r
 Machine Learning
 ----------------
 
+- `A Do-It-Yourself Machine Learning Climate Model <http://brohan.org/DCVAE_Climate/>`_
 - `Machine Learning for Data Assimilation <http://brohan.org/Proxy_20CR/>`_
 - `Weather Forecasting without the difficult bits <http://brohan.org/ML_GCM/>`_
 - `Weather2weather: Forecast the weather using tensorflow and the pix2pix model <https://github.com/philip-brohan/weather2weather>`_

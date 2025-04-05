@@ -59,6 +59,7 @@ Graphics
 --------
 
 - `A modern Rhinoceros <http://brohan.org/Posters/posters/Rhinoceros/>`_: A tribute to the power of Matplotlib and the genius of Albrect Dürer.
+- `ML as a superpower <http://brohan.org/Posters/posters/ML_Kirby/>`_: A scientific poster in the style of Jack Kirby.
 - `Storm Darragh drawn with the Shipping Forecast <https://brohan.org/Posters/posters/Wind_words/>`_: A picture of the storm, made from words.
 - `An AI reads history <http://brohan.org/Posters/posters/An_AI_reads_history/>`_: How many overlapping lifetimes does it take to cover recorded history?.
 - `An equirectangular approximation to the Spilhaus projection <http://brohan.org/Posters/posters/Spilhaus/ostia.html>`_: A map of the world arranged to highlight the ocean.

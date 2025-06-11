@@ -6,13 +6,13 @@ I am old enough to have a homepage as a central web presence, but this page is r
 Machine Learning
 ----------------
 
-- `A Do-It-Yourself Machine Learning Climate Model <http://brohan.org/DCVAE_Climate/>`_
 - `Machine Learning for Data Assimilation <http://brohan.org/Proxy_20CR/>`_
 - `Weather Forecasting without the difficult bits <http://brohan.org/ML_GCM/>`_
 - `Weather2weather: Forecast the weather using tensorflow and the pix2pix model <https://github.com/philip-brohan/weather2weather>`_
 - `Experiments in Machine Learning with climate data <http://brohan.org/Machine-Learning/>`_
 - `Using Amazon Textract for data rescue <https://brohan.org/AWS-Textract/>`_
 - `Using Google Vision for data rescue <https://brohan.org/Google-Vision/>`_
+- `Google Gemini as a tool for data rescue <https://brohan.org/AI_daily_precip>`_
 
 Analyses
 --------

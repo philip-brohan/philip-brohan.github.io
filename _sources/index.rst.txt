@@ -15,7 +15,7 @@ Machine Learning
 - `Google Gemini as a tool for data rescue <https://brohan.org/AI_daily_precip>`_
 
 Analyses
---------
+.. --------
 
 - `The Twentieth-Century Reanalysis version 3 <https://oldweather.github.io/20CRv3-diagnostics/>`_
 - `Do-it-yourself Data Assimilation <http://brohan.org/offline_assimilation/>`_
@@ -61,6 +61,7 @@ Graphics
 
 - `A modern Rhinoceros <http://brohan.org/Posters/posters/Rhinoceros/>`_: A tribute to the power of Matplotlib and the genius of Albrect Dürer.
 - `ML as a superpower <http://brohan.org/Posters/posters/ML_Kirby/>`_: A scientific poster in the style of Jack Kirby.
+- `Show more stripes <http://brohan.org/Posters/posters/Cartoon_stripes/>`_: A scientific poster on extensions to the climate stripes.
 - `Storm Darragh drawn with the Shipping Forecast <https://brohan.org/Posters/posters/Wind_words/>`_: A picture of the storm, made from words.
 - `An AI reads history <http://brohan.org/Posters/posters/An_AI_reads_history/>`_: How many overlapping lifetimes does it take to cover recorded history?.
 - `An equirectangular approximation to the Spilhaus projection <http://brohan.org/Posters/posters/Spilhaus/ostia.html>`_: A map of the world arranged to highlight the ocean.

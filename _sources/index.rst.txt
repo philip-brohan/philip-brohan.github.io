@@ -14,6 +14,7 @@ Machine Learning
 - `Using Google Vision for data rescue <https://brohan.org/Google-Vision/>`_
 - `Google Gemini as a tool for data rescue <https://brohan.org/AI_daily_precip>`_
 - `Robot Rainfall Rescue - a 100% AI data rescue method <https://brohan.org/Robot_Rainfall_Rescue/>`_
+- `A Homogenized Precipitation Dataset <https://brohan.org/ML_precipitation_dataset/>`_
 
 Analyses
 --------
